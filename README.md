@@ -54,14 +54,18 @@ ip route 192.168.1.0 255.255.255.0 200.100.50.5
 ## Verrification
 
 show ip route
+
 show ip route static
 
  
 ## Failover Test 
 
 conf t
+
 interface g0/1
+
 shutdown
+
 end
 
 ## Tracert From PC 
