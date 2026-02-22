@@ -13,6 +13,8 @@ The backup route is configured with a higher Administrative Distance (130) so it
 
 ---
 
+![Topology](docs/topology.png)
+
 ## Network Details
 
 ### LAN
