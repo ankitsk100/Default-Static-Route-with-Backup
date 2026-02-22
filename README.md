@@ -1,10 +1,5 @@
 # Default Static Route with Backup (Floating Static Route)
 
-![Cisco](https://img.shields.io/badge/Vendor-Cisco-blue)
-![Routing](https://img.shields.io/badge/Category-Static%20Routing-success)
-![Redundancy](https://img.shields.io/badge/Focus-WAN%20Failover-orange)
-![Tool](https://img.shields.io/badge/Tool-Cisco%20Packet%20Tracer-lightgrey)
-
 ---
 
 ## Project Overview
