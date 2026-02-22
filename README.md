@@ -35,13 +35,11 @@ Network: `192.168.1.0/24`
 
 ## Primary Route
 
-```bash
 ip route 0.0.0.0 0.0.0.0 200.100.50.2
 
 ---
 ## backup Route
 ip route 0.0.0.0 0.0.0.0 200.100.50.6 130
-
 
 ## ISP Return Route
 
